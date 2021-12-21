@@ -1,0 +1,6 @@
+require('autocmd')
+require('keymaps')
+require('plugins')
+require('functions')
+require('options')
+require('vim_cmd')
